@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/BradenFromPA/qar/issues"
   },
-  "homepage": "https://github.com/BradenFromPA/qar#readme"
+  "homepage": "https://github.com/BradenFromPA/qar#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
