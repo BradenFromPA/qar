@@ -1,0 +1,22 @@
+{
+  "name": "qar",
+  "version": "1.0.0",
+  "description": "cars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradenFromPA/qar.git"
+  },
+  "keywords": [
+    "cars"
+  ],
+  "author": "Braden Hancock, Chris Mugumwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BradenFromPA/qar/issues"
+  },
+  "homepage": "https://github.com/BradenFromPA/qar#readme"
+}
